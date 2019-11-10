@@ -42,7 +42,7 @@ MySQL과는 사뭇 다른 형태를 띄고 있죠? 한번 표로 비교해보록
 
 이해를 돕기위해 그림을 그려보았습니다..(발퀄 죄송합니다..)
 
-![ex_screenshot](./img/mongo.jpg)
+![ex_screenshot](./img/24.jpg)
 
 ---
 
